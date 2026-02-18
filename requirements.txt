@@ -1,0 +1,10 @@
+transformers
+peft
+pillow
+pandas
+tqdm
+pyyaml
+accelerate
+einops
+numpy<2
+torchvision
